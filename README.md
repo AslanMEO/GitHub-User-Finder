@@ -15,6 +15,6 @@
 
 ## Использование API GitHub
 
-Приложение использует публичный GitHub API (https://api.github.com/users/{username}).
+Приложение использует публичный GitHub API (https://github.com/AslanMEO/GitHub-User-Finder).
 
 Для поиска пользователя введите его username в поле# GitHub-User-Finder
